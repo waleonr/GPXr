@@ -1,4 +1,4 @@
-# GPXr
+# Multiple GPX converter
  
 GPX_to_Shapefile
 
